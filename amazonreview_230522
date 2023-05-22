@@ -1,9 +1,0 @@
-# 1. 파일 준비
-
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-from nltk.sentiment.vader import SentimentIntensityAnalyzer
-sentiments = SentimentIntensityAnalyzer()
-df = pd.read_csv('Documents/kaggle/amazon/Reviews.csv')
