@@ -6,4 +6,4 @@
 ##### ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 2. 관련 소스
-#### - Reviews.csv : Amazon Review dataset
+#### - 다운로드 : https://drive.google.com/file/d/1EqScd-pU-cZDoo1ytA_y6fkc0Ybt5Ir3/view?usp=share_link
